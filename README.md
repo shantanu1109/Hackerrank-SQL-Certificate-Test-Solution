@@ -9,12 +9,20 @@ Explore the foundational concepts of SQL with these fundamental queries, relatio
 - **Relationships**: Understand the connections between tables and how to navigate them.
 - **Aggregators**: Learn to summarize and analyze data using aggregate functions.
 
+**Questions -**
+- 1. Student Advisor
+- 2. Student Analysis
+
 ## SQL (Intermediate)
 Dive deeper into SQL with complex joins, unions, and sub-queries.
 
 - **Complex Joins**: Navigate through intricate relationships between tables.
 - **Unions**: Combine results from multiple queries efficiently.
 - **Sub-queries**: Enhance your querying skills with nested queries.
+
+**Questions -**
+- 1. Products Without Sales
+- 2. Product Sales Per City
 
 ## SQL (Advanced)
 Take your SQL expertise to the next level with advanced topics.
@@ -24,6 +32,10 @@ Take your SQL expertise to the next level with advanced topics.
 - **Indexing**: Explore the power of indexing for faster data retrieval.
 - **Window Functions**: Analyze and visualize data using window functions.
 - **Pivots in SQL**: Transform your data with pivot operations.
+
+**Questions -**
+- 1. Crypto Market Algorithm
+- 2. Winners Chart
 
 Feel free to explore, contribute, and elevate your SQL proficiency! 💻✨
 
